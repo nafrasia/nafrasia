@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Navid
-- 👀 I’m interested in computational material science
+- 👀 I’m interested in computational material science, molecular modeling, data science
 - 📫 How to reach me nafrasia@uwo.ca
 
 <!---
